@@ -1,2 +1,1 @@
-ok
-![dog-slideshow](https://user-images.githubusercontent.com/78610949/143596133-4117339c-a075-4c16-b3a5-e85538ea3178.gif)
+![2x](https://user-images.githubusercontent.com/78610949/143596297-a5a1605c-769e-4ac2-8a4a-57819455dfea.gif)
