@@ -1,10 +1,9 @@
 
-```
-ERROR: Root device mounted successfully, but /sbin/init does not exist.
-Bailing out, you are on your own. Good luck.
-```
-
 <div align="center">
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UTkbxRME7c9C/UTkbxRME7c9C/output/snake-dark.svg" />
