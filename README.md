@@ -9,10 +9,6 @@
 </p>
 //-->
 <p>
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=rafayet-git&show_icons=true&theme=transparent&hide_border=true"/>
-  <img alt="stats" src="https://streak-stats.demolab.com?user=rafayet-git&theme=transparent&hide_border=true"/>
-</p>
-<p>
   <img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafayet-git&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/> 
 </p>
 <picture>
